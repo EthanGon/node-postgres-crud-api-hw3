@@ -18,6 +18,7 @@
   "homepage": "https://github.com/EthanGon/node-postgres-crud-api-hw3#readme",
   "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0",
     "pg": "^8.15.6"
   }
